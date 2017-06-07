@@ -1,0 +1,14 @@
+{
+  "name": "node-learn",
+  "version": "1.0.0",
+  "description": "node learn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "fhalcyon <fhalcyon@gmail.com>",
+  "license": "ISC"
+}
