@@ -10,5 +10,9 @@
     "node"
   ],
   "author": "fhalcyon <fhalcyon@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "utility": "^1.12.0"
+  }
 }
